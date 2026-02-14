@@ -7,6 +7,7 @@ function App() {
   return (
     <main className="app">
       <header className="header">
+        <h1>This is a cicd deployment with local to ec2</h1>
         <h1 className="title">Simple App</h1>
         <p className="subtitle">Production-ready React on AWS EC2</p>
       </header>
